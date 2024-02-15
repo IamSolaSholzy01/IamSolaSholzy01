@@ -4,7 +4,7 @@ Hi 👋 My name is Olusola Olagunju
 FullStack Developer
 -------------------
 
-I've been coding for 4 years, after a school course introducing C#. At the moment I favor MEAN and MERN stacks, but I also work with Laravel and Python.
+I've been coding for 5 years, after a school course introducing C#. At the moment I favor MEAN and MERN stacks, but I also work with Laravel and Python.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ogolagunju@gmail.com](mailto:ogolagunju@gmail.com)
@@ -63,7 +63,7 @@ src="https://img.shields.io/github/followers/IamSolaSholzy01?logo=github&style=f
 
 <a href="http://www.github.com/IamSolaSholzy01"><img src="https://github-readme-stats.vercel.app/api?username=IamSolaSholzy01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IamSolaSholzy01's GitHub stats" /></a>
 
-<a href="http://www.github.com/IamSolaSholzy01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamSolaSholzy01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/IamSolaSholzy01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamSolaSholzy01&stroke=ffffff&background=371f76&ring=ac94f4&fire=ac94f4&currStreakNum=ffffff&currStreakLabel=ac94f4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/IamSolaSholzy01"><img src="https://activity-graph.herokuapp.com/graph?username=IamSolaSholzy01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
