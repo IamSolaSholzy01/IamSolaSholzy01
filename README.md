@@ -4,7 +4,7 @@ Hi 👋 My name is Olusola Olagunju
 FullStack Developer
 -------------------
 
-I've been coding for 5 years, after a school course introducing C#. At the moment I favor MEAN and MERN stacks, but I also work with Laravel and Python.
+I've been coding for 7 years, after a school course introducing C#. At the moment I favor MEAN and MERN stacks, but I also work with Laravel and Python.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ogolagunju@gmail.com](mailto:ogolagunju@gmail.com)
