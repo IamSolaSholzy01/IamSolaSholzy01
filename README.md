@@ -10,7 +10,7 @@ I've been coding for 7 years, after a school course introducing C#. At the momen
 * ✉️  You can contact me at [ogolagunju@gmail.com](mailto:ogolagunju@gmail.com)
 * 🧠  I'm learning Machine Learning and AI models with Python.
 * 🤝  I'm open to collaborating on interesting web based projects.
-* ⚡  I'm actually supposed to be a Civil Engineering Student 😂
+* ⚡  I'm actually supposed to be a Civil Engineering graduate 😂
 
 <a href="https://www.twitter.com/ogsholzy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ogsholzy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
