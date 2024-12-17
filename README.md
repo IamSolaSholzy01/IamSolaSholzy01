@@ -63,7 +63,7 @@ src="https://img.shields.io/github/followers/IamSolaSholzy01?logo=github&style=f
 
 <a href="http://www.github.com/IamSolaSholzy01"><img src="https://github-readme-stats.vercel.app/api?username=IamSolaSholzy01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IamSolaSholzy01's GitHub stats" /></a>
 
-<img src="https://streak-stats.demolab.com/?user=IamSolaSholzy01" />
+[![GitHub Streak](https://github-readme-streak-stats-theta-sepia.vercel.app?user=IamSolaSholzy01&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/IamSolaSholzy01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSolaSholzy01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
