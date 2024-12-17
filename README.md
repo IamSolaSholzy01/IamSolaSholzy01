@@ -63,7 +63,7 @@ src="https://img.shields.io/github/followers/IamSolaSholzy01?logo=github&style=f
 
 <a href="http://www.github.com/IamSolaSholzy01"><img src="https://github-readme-stats.vercel.app/api?username=IamSolaSholzy01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IamSolaSholzy01's GitHub stats" /></a>
 
-<a href="http://www.github.com/IamSolaSholzy01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamSolaSholzy01&stroke=6E6E61&background=6E6E61&ring=DE3163&fire=DE3163&currStreakNum=ffffff&currStreakLabel=DE3163&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/IamSolaSholzy01"><img src="https://streak-stats.demolab.com/?user=IamSolaSholzy01&stroke=6E6E61&background=6E6E61&ring=DE3163&fire=DE3163&currStreakNum=ffffff&currStreakLabel=DE3163&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/IamSolaSholzy01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSolaSholzy01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
